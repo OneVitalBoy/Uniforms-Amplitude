@@ -60,10 +60,10 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedJar Include="Jars\amplitude-android-2.15.0.jar" />
+    <EmbeddedJar Include="Jars\amplitude-android-2.14.1.jar" />
   </ItemGroup>
   <ItemGroup>
-    <ReferenceJar Include="Jars\okhttp-3.5.0.jar" />
-    <ReferenceJar Include="Jars\okio-1.11.0.jar" />
+    <ReferenceJar Include="Jars\okhttp-3.0.1.jar" />
+    <ReferenceJar Include="Jars\okio-1.6.0.jar" />
   </ItemGroup>
 </Project>
